@@ -23,3 +23,4 @@ print("name in upper case:", name.upper()) # name in upper case
 print("name in lower case:", name.lower()) # name in lower case 
 print("replace name khaki with khan:", name.replace("khaki", "khan")) # replace khaki with khan
 print("find index of letter k in name:", name.find("k")) # find index of letter k in name
+print("count letter a in name:", name.count("a")) # count letter a in name

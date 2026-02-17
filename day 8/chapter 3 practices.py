@@ -1,6 +1,7 @@
 #Q1. write a python program to display entered user name followed by good afternoon using input 
 name =input("Enter your name:")
 print(f"good afternoon {name}")
+print("good afternoon", name)
 
 #Q2. write a python program to fill in a letter template give below with name and date
 letter1 = '''Dear <|NAME|>,
