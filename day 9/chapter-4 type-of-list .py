@@ -1,3 +1,10 @@
+a = (1, 2, 3, 4, 5)
+b = {1, 2, 3, 4, 5}
+c = [1, 2, 3, 4, 5]
+print(type(a)) # a is type tuple
+print(type(b)) # b is type set
+print(type(c)) # c is type list
+
 list = ["apple", 123, 4.5, None, True, "khaki", {"name": "Alice", "age": 30}, [1, 2, 3], (4, 5, 6), {1, 2, 3}]
 #list is a collection of items that can be of different data types. It is ordered, mutable, and allows duplicate elements.
 print(list)

@@ -10,10 +10,10 @@ print("full letter of name :" , name[:])
 print("full letter of name :" , name[0:])
 print("full letter of name :" , name[:14])
 
-num = "0123456789abcdefghijklmnopqrstuvwxyz"
+num = "0123456789"
 
-print(num[0:10:4]) # short name with step 2
-print(num[1:14:3]) # short name with step 3
+print(num[0:8:4]) # short name with step 2
+print(num[1:9:3]) # short name with step 3
 
 # string functions
 print("print length of name:", len(name)) # length of string
